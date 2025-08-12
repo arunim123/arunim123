@@ -2,7 +2,7 @@
 
 🎯 **Aspiring Software Engineer | Machine Learning & Full-Stack Developer**  
 💻 Building AI-powered solutions, scalable web apps, and impactful tech projects.  
-📍 Bengaluru, India
+📍 Bengaluru, India  
 
 ---
 
@@ -10,7 +10,7 @@
 - 🎓 **B.Tech in Computer Science** @ Atria Institute of Technology (8.5 CGPA) — Graduation: *May 2027*
 - 🤖 Specializing in **Machine Learning, Generative AI, and Full-Stack Web Development**
 - 🏆 Award-winning project creator with **Microsoft Azure** and **Google Cloud** certifications
-- 💡 Passionate about building real-world solutions using **AI**, **cloud platforms**, and modern web technologies
+- 💡 Passionate about building real-world solutions using **AI**, **cloud platforms**, and modern web technologies  
 
 ---
 
@@ -30,6 +30,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -48,6 +49,11 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 
+**Design & 3D Tools:**  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -64,6 +70,19 @@
 | **AI-Powered IDE Extension** | VS Code extension for contextual code assistance using local LLMs (Ollama). | TypeScript, Node.js |
 | **[BuildPredict](https://github.com/arunim123/BuildPredict)** | Web app for construction cost estimation based on location & materials. | FastAPI, PostgreSQL, React |
 | **[Disaster Management App](https://github.com/arunim123/Disaster-Management-App)** | Flutter app providing real-time emergency alerts and resource locations. | Flutter, Firebase |
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arunim123&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunim123&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arunim123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
