@@ -84,11 +84,7 @@
   <img src="https://streak-stats.demolab.com?user=arunim123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🗓️ GitHub Contribution Calendar
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunim123&theme=tokyonight" alt="GitHub Contribution Graph" />
-</p>
 ---
 
 ## 🏆 Achievements & Certifications
