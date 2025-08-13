@@ -94,7 +94,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunim-parashar-52a3b6292)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/arunim123)
