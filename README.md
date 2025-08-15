@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunim123&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
