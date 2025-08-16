@@ -96,7 +96,7 @@
 ---
 
 ## 🌐 Connect With Me 
-
+# Portfolio https://arunim-parashar.vercel.app
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunim-parashar-52a3b6292)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/arunim123)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunimparashar@gmail.com)
