@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **B.Tech in Computer Science** @ Atria Institute of Technology (8.5 CGPA) — Graduation: *May 2027*
+- 🎓 **B.Tech in Computer Science** @ Atria Institute of Technology (8.5 CGPA) —  Graduation: *May 2027*
 - 🤖 Specializing in **Machine Learning, Generative AI, and Full-Stack Web Development**
 - 🏆 Award-winning project creator with **Microsoft Azure** and **Google Cloud** certifications
 - 💡 Passionate about building real-world solutions using **AI**, **cloud platforms**, and modern web technologies  
