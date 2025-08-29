@@ -5,7 +5,7 @@
 📍 Bengaluru, India   
   
 --- 
-
+ 
 ## 🚀 About Me
 - 🎓 **B.Tech in Computer Science** @ Atria Institute of Technology (8.5 CGPA) —  Graduation: *May 2027*
 - 🤖 Specializing in **Machine Learning, Generative AI, and Full-Stack Web Development**
