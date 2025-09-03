@@ -3,7 +3,7 @@
 🎯 **Aspiring Software Engineer | Machine Learning & Full-Stack Developer**  
 💻 Building AI-powered solutions, scalable web apps, and impactful tech projects.  
 📍 Bengaluru, India   
-  
+   
 --- 
  
 ## 🚀 About Me
