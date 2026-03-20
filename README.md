@@ -80,7 +80,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunim123&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://streak-stats.demolab.com?user=arunim123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
